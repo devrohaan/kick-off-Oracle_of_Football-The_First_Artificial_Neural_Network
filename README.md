@@ -64,7 +64,7 @@ Our ANN will model a single hidden layer with five inputs and one output. In the
 | 29   |48| 3290| 5| 1| 51|
 | 30   |57| 5243| 6| 0| 56|
 | 31   |44| 4893| 3| 1| 48|
-| 32   |40| 3000| 0| 0| :question: :question: |
+| 32   |40| 3000| 0| 0| :question: |
 
 
 ### Understanding the process ###
