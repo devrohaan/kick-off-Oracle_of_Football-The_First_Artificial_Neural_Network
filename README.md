@@ -49,7 +49,7 @@ Artificial Neural Networks is a term derived from Biological neural networks tha
 
 Our ANN will model a single hidden layer with five inputs and one output. In the network, we will be predicting the goals scored by CR based on the inputs of his **Total Footbala Appearances**, **Playing Time in minutes**, **Yellow Cards** and **Red Cards** at his given **Age**. The number of **Goals** Scored the output.
 
-[Oracle_of_Football](code)
+### [Oracle_of_Football](https://github.com/robagwe/kick-off-Oracle_of_Football-The_First_Artificial_Neural_Network/blob/master/code/Oracle_of_Football-The_First_Artificial_Neural_Network.py)
 
 ###### Here’s our sample data of what we’ll be training our Neural Network on: ######
 
